@@ -1,5 +1,5 @@
 def linear_search(number, array):
-    for i in range(0, len(array)):
+    for i in range(len(array)):
         if array[i] == number:
             return i
     else:
