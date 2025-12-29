@@ -1,0 +1,1 @@
+No vibe code, pure on manual coding revision so no brain DAMAGE
